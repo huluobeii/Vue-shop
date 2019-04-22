@@ -1,2 +1,16 @@
-# Vue-shop
-用Vue框架做的简易商城
+# xz_admin_v2
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
